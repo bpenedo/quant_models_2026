@@ -1,0 +1,4 @@
+estado,media_diaria_pct,vol_anual_pct,persistencia,duracao_media_pregoes,fracao_tempo
+calmo,0.122685,7.36171,0.94781,19.1607,0.460946
+normal,0.00845267,17.0649,0.941592,17.1209,0.467028
+turbulento,-0.208147,43.4465,0.94343,17.6771,0.0720269

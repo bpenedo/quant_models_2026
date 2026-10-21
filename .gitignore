@@ -1,0 +1,63 @@
+# quant_models_2026
+# Autor: ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS
+
+# ── PRIVADO — nunca publicar (D23) ────────────────────────────────
+_private/
+**/_private/
+*.private.*
+
+# ── Segredos ──────────────────────────────────────────────────────
+.env
+.env.*
+!.env.exemplo
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+segredos/
+secrets/
+
+# ── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# ── Rust / F# / .NET ──────────────────────────────────────────────
+target/
+bin/
+obj/
+*.rlib
+
+# ── Node / Evidence ───────────────────────────────────────────────
+node_modules/
+.evidence/
+.svelte-kit/
+build/
+dist/
+
+# ── Séries BRUTAS do DataFeed (Dukascopy/Yahoo/LSE) — não redistribuir ──
+# O repositório publica só resultados agregados (evidence/dados/quant) e
+# retornos derivados do laboratório; o Parquet bruto fica na máquina do autor.
+dados/parquet/*
+!dados/parquet/.gitkeep
+
+# ── Dados e artefatos voláteis ────────────────────────────────────
+logs/
+*.log
+*.db-wal
+*.db-shm
+*.tmp
+.cache/
+
+# ── Sistema ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*:Zone.Identifier

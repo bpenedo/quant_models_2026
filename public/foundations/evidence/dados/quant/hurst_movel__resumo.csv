@@ -1,0 +1,7 @@
+simbolo,nome,hurst_rs,hurst_nulo,excesso,z,leitura,sharpe_hurst_movel,sharpe_medias_moveis,sharpe_comprado
+US500,S&P 500,0.545763,0.54842,-0.00265715,-0.124507,indistinguível de passeio aleatório,0.25557,0.618031,0.63595
+XAUUSD,Ouro,0.536417,0.555162,-0.018745,-0.828934,indistinguível de passeio aleatório,0.334936,0.412915,0.372932
+EURUSD,Euro/Dólar,0.557814,0.559901,-0.00208653,-0.116044,indistinguível de passeio aleatório,-0.0205879,-0.160779,-0.22658
+WTI,Petróleo WTI,0.586394,0.544884,0.0415103,1.53267,indistinguível de passeio aleatório,0.182183,-0.345026,-0.0445919
+USTBOND,Treasury americano,0.566785,0.558371,0.00841454,0.461225,indistinguível de passeio aleatório,0.111246,0.175583,0.0148683
+SOYBEAN,Soja,0.548462,0.544315,0.00414638,0.183995,indistinguível de passeio aleatório,-0.109656,-0.216646,-0.161264

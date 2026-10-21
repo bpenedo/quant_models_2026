@@ -1,0 +1,4 @@
+carteira,ativos,correlacao_media_entre_si,retorno_anual_pct,vol_anual_pct,sharpe,drawdown_pct
+Periféricos,"NATGAS, USTBOND, SUGAR, OJUICE, COCOA, USDCHF, SOYBEAN, COTTON",0.000994414,11.0387,16.4475,0.671147,-23.5582
+Centrais,"DXY, EURUSD, WTI, US30, COPPER, NZDUSD, US500, AUDUSD",0.152669,7.37288,11.516,0.640229,-24.5148
+Todos (pesos iguais),27 ativos,0.0740527,11.1809,11.7818,0.948995,-22.2837

@@ -1,0 +1,50 @@
+# quant_models_2026
+# Autor: ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS
+# E-mail: profbruanbima@gmail.com
+#
+# FONTE ÚNICA DE VERDADE do projeto. Todo script lê daqui.
+# Corrigir nome, autoria, stack ou orçamento é editar ESTE arquivo — e só ele.
+
+[projeto]
+nome    = "quant_models_2026"
+titulo  = "Quant Models 2026"
+slug    = "quant_models_2026"
+dominio = "modelos quantitativos para decisão sob incerteza (mercado financeiro, compras corporativas, defesa, startups)"
+versao  = "0.1.0"
+criado  = "15/10/2026"
+
+[autoria]
+autor            = "ProfBru - Bruno Penedo"
+ano              = "2026"
+direitos         = "TODOS OS DIREITOS RESERVADOS"
+email            = "profbruanbima@gmail.com"
+assinatura_curta = "ProfBru © 2026"
+
+[stack]
+perfil   = "python-rust"     # python-rust | python-fsharp | python | web-wasm
+python   = "3.13"
+motor2   = "rust"           # rust | fsharp | nenhum
+web      = "evidence"              # evidence | wasm | ambos | nenhum
+paralelo = "ProcessPoolExecutor"  # D8 — nunca threading para CPU-bound
+jit      = "numba"                # D13
+cython   = true                   # D13
+
+[execucao]
+idioma_saida     = "pt-BR"        # D7 — toda a sessão
+encoding         = "utf-8"        # sem BOM, LF, NFC
+background       = "screen"       # D11 — NUNCA nohup
+watchdog_minutos = 20             # D12
+sessao_screen    = "quant_models_2026"
+
+[i18n]
+origem  = "pt-BR"
+locales = ["pt-BR","en-US","es-ES","fr-FR","de-DE","zh-CN","ko-KR","hi-IN","he-IL","ru-RU","sv-SE","fi-FI"]
+
+[performance]
+orcamento_segundos   = 10.0       # D14 — teto do caminho crítico (malha O-U numba ≈ 3,4 s medida em 15/10/2026)
+tolerancia_regressao = 0.15       # 15% acima da melhor marca reprova
+
+[publicacao]
+repositorio = "privado"           # D23
+deploy      = "manual"            # D23 — JAMAIS automático
+ignorar     = ["_private/"]

@@ -1,0 +1,5 @@
+kernel,acuracia_treino,acuracia_teste,vetores_suporte,lacuna_overfitting
+linear,0.511202,0.487734,1979,0.0234683
+poly,0.50599,0.495118,1992,0.0108712
+rbf,0.531928,0.483787,1945,0.048141
+sigmoid,0.494169,0.506787,1037,-0.012618

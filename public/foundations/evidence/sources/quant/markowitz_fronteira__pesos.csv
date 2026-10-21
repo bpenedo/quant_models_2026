@@ -1,0 +1,31 @@
+carteira,simbolo,nome,peso
+Mínima variância,US500,S&P 500,0.0527538
+Mínima variância,US100,Nasdaq 100,5.42101e-20
+Mínima variância,XAUUSD,Ouro,0.052412
+Mínima variância,XAGUSD,Prata,7.04731e-19
+Mínima variância,WTI,Petróleo WTI,1.6263e-19
+Mínima variância,COPPER,Cobre,0.0022774
+Mínima variância,EURUSD,Euro/Dólar,0.299826
+Mínima variância,USDJPY,Dólar/Iene,0.352247
+Mínima variância,USTBOND,Treasury americano,0.228995
+Mínima variância,SOYBEAN,Soja,0.0114877
+Máximo Sharpe (tangência),US500,S&P 500,1.55581e-16
+Máximo Sharpe (tangência),US100,Nasdaq 100,0.545703
+Máximo Sharpe (tangência),XAUUSD,Ouro,0.0218937
+Máximo Sharpe (tangência),XAGUSD,Prata,1.85572e-16
+Máximo Sharpe (tangência),WTI,Petróleo WTI,8.05119e-16
+Máximo Sharpe (tangência),COPPER,Cobre,7.41366e-16
+Máximo Sharpe (tangência),EURUSD,Euro/Dólar,1.35717e-16
+Máximo Sharpe (tangência),USDJPY,Dólar/Iene,0.0301138
+Máximo Sharpe (tangência),USTBOND,Treasury americano,0.402289
+Máximo Sharpe (tangência),SOYBEAN,Soja,0
+Pesos iguais,US500,S&P 500,0.1
+Pesos iguais,US100,Nasdaq 100,0.1
+Pesos iguais,XAUUSD,Ouro,0.1
+Pesos iguais,XAGUSD,Prata,0.1
+Pesos iguais,WTI,Petróleo WTI,0.1
+Pesos iguais,COPPER,Cobre,0.1
+Pesos iguais,EURUSD,Euro/Dólar,0.1
+Pesos iguais,USDJPY,Dólar/Iene,0.1
+Pesos iguais,USTBOND,Treasury americano,0.1
+Pesos iguais,SOYBEAN,Soja,0.1

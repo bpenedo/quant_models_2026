@@ -1,0 +1,2 @@
+modelo,acuracia,acuracia_balanceada,auc,fracao_prevista_alta,taxa_base_alta,sharpe_long_short,sharpe_comprado,n_teste
+Regressão logística,0.54195,0.502121,0.49206,0.979214,0.541572,0.993414,0.720116,2646

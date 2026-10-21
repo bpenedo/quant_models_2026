@@ -1,0 +1,26 @@
+# quant_models_2026
+# Autor: ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS
+# E-mail: profbruanbima@gmail.com
+#
+# Segundo motor dos kernels numéricos (D9). Sem dependências externas: compila igual
+# para x86_64 (CLI de verificação cruzada) e para wasm32-unknown-unknown (site).
+[package]
+name = "quant_models_2026_core"
+version = "0.1.0"
+edition = "2021"
+authors = ["ProfBru - Bruno Penedo <profbruanbima@gmail.com>"]
+license = "LicenseRef-Proprietaria"
+description = "Kernels quantitativos (Rust) espelhando quant/kernels.py"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[[bin]]
+name = "qm_core"
+path = "src/bin/qm_core.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"

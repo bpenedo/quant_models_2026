@@ -1,0 +1,10 @@
+de,para,probabilidade
+baixa,baixa,0.307692
+lateral,baixa,0.162162
+alta,baixa,0.185185
+baixa,lateral,0.102564
+lateral,lateral,0.432432
+alta,lateral,0.481481
+baixa,alta,0.589744
+lateral,alta,0.405405
+alta,alta,0.333333

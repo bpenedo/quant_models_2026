@@ -1,0 +1,24 @@
+# quant_models_2026
+# Autor: ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS
+# E-mail: profbruanbima@gmail.com
+appearance:
+  default: system
+  switcher: true
+
+theme:
+  colorPalettes:
+    default:
+      light: ["#1d4ed8", "#0f766e", "#b45309", "#7c3aed", "#be123c", "#0369a1", "#4d7c0f", "#a16207", "#475569", "#db2777"]
+      dark:  ["#60a5fa", "#2dd4bf", "#fbbf24", "#a78bfa", "#fb7185", "#38bdf8", "#a3e635", "#facc15", "#94a3b8", "#f472b6"]
+  colorScales:
+    default:
+      light: ["#e0f2fe", "#1e3a8a"]
+      dark: ["#0c4a6e", "#bae6fd"]
+
+plugins:
+  components:
+    "@evidence-dev/core-components": {}
+  datasources:
+    # Só o conector usado. Declarar pacote não instalado derruba o servidor com um
+    # "Cannot convert undefined or null to object" que não diz qual (lição herdada do portfólio).
+    "@evidence-dev/csv": {}

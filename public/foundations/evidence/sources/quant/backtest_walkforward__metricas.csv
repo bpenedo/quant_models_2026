@@ -1,0 +1,5 @@
+estrategia,cagr_pct,vol_anual_pct,sharpe,sortino,drawdown_max_pct,dias_positivos_pct,giro_anual,portao_sharpe,portao_drawdown,portao_custos,veredito
+Pesos iguais,4.81324,9.94583,0.522464,0.69033,-25.5607,53.4516,0.546977,True,True,True,APROVADA
+Paridade de risco,3.22553,5.30523,0.624894,0.831297,-13.0519,53.9427,1.11968,True,True,True,APROVADA
+Momentum (janela walk-forward),4.67969,11.1083,0.467516,0.563485,-26.8429,53.7244,5.50706,False,True,True,STOP
+S&P 500 comprado,13.171,16.9955,0.813322,0.998698,-34.4453,54.2701,0,True,False,True,STOP

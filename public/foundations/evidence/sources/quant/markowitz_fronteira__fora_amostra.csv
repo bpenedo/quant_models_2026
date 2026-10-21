@@ -1,0 +1,4 @@
+carteira,sharpe_treino,sharpe_teste,vol_teste_pct,drawdown_teste_pct,retorno_teste_pct
+Mínima variância,0.413647,0.767196,3.81235,-5.29696,2.92482
+Máximo Sharpe (tangência),1.18973,0.764394,14.3411,-28.6684,10.9623
+Pesos iguais,0.351861,0.937309,12.2815,-20.6697,11.5115

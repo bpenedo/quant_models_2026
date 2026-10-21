@@ -1,0 +1,5 @@
+metodo,outliers
+"Boxplot 1,5·IQR",264
+z-robusto |z|>4 (mediana/MAD),95
+LOF (densidade local),79
+Consenso (≥2 votos),101

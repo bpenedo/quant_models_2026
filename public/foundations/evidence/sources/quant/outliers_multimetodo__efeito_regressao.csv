@@ -1,0 +1,3 @@
+cenario,inclinacao,intercepto
+sem outlier,0.759947,1.95182
+com 1 outlier,0.529613,2.64753

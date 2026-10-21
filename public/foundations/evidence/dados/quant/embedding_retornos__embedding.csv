@@ -1,0 +1,28 @@
+simbolo,dim1,dim2,nome,classe
+AUDUSD,0.353326,1.19963,Dólar australiano,Câmbio
+BRENT,-2.12526,-0.00915351,Petróleo Brent,Energia
+COCOA,0.0761262,-0.394397,Cacau,Agrícolas
+COFFEE,0.357354,-0.576176,Café,Agrícolas
+COPPER,0.780581,0.33877,Cobre,Metais
+COTTON,-0.360869,0.646201,Algodão,Agrícolas
+DIESEL,-2.09037,0.069628,Diesel,Energia
+DXY,-0.239806,-2.20379,Índice do dólar,Câmbio
+EURUSD,-0.177163,1.49762,Euro/Dólar,Câmbio
+GBPUSD,-0.448244,1.59662,Libra/Dólar,Câmbio
+NATGAS,-0.538717,0.0433149,Gás natural,Energia
+NZDUSD,0.106633,1.25251,Dólar neozelandês,Câmbio
+OJUICE,0.361839,-0.267617,Suco de laranja,Agrícolas
+PALLADIUM,0.634831,0.634684,Paládio,Metais
+PLATINUM,0.69779,0.545202,Platina,Metais
+SOYBEAN,-1.27308,0.605969,Soja,Agrícolas
+SUGAR,-0.850299,-0.0727069,Açúcar,Agrícolas
+US100,0.831293,0.162867,Nasdaq 100,Índices
+US30,1.36627,0.0829565,Dow Jones,Índices
+US500,1.10664,0.277735,S&P 500,Índices
+USDCAD,0.718189,-2.1709,Dólar/Dólar canadense,Câmbio
+USDCHF,-0.234286,-2.07409,Dólar/Franco,Câmbio
+USDJPY,-0.382631,-1.62894,Dólar/Iene,Câmbio
+USTBOND,1.46103,-0.339201,Treasury americano,Juros
+WTI,-2.1273,0.0388945,Petróleo WTI,Energia
+XAGUSD,0.934678,0.360116,Prata,Metais
+XAUUSD,1.06144,0.384253,Ouro,Metais

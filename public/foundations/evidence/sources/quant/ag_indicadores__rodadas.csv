@@ -1,0 +1,5 @@
+semente,usa_medias,media_rapida,media_lenta,usa_rsi,rsi_limiar,usa_rompimento,janela_rompimento,sharpe_treino,sharpe_teste,regras_avaliadas
+11,True,52,138,False,49,False,88,0.771909,0.409056,481
+12,True,37,142,False,51,False,46,0.704506,0.460844,509
+13,True,31,121,False,37,False,80,0.748364,0.543241,438
+14,True,51,136,False,58,False,85,0.779863,0.454951,398

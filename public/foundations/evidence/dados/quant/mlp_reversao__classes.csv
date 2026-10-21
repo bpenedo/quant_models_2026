@@ -1,0 +1,4 @@
+classe,sinais_emitidos,eventos_reais,acertos,precisao,taxa_base
+reversão de alta,607,119,105,0.172982,0.135845
+reversão de queda,207,114,35,0.169082,0.130137
+lateral,62,643,43,0.693548,0.734018

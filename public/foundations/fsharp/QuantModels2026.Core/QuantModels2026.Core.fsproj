@@ -1,0 +1,29 @@
+<!--
+quant_models_2026
+Autor: ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS
+E-mail: profbruanbima@gmail.com
+
+Terceiro motor dos kernels numéricos (D9): mesma matemática de quant/kernels.py (numba) e de
+rust/quant_models_2026_core, mesmo protocolo de CLI. Concordância verificada por testes_nucleo.py.
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <AssemblyName>qm_core_fs</AssemblyName>
+    <Authors>ProfBru - Bruno Penedo</Authors>
+    <Copyright>ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS</Copyright>
+    <Optimize>true</Optimize>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <TieredPGO>true</TieredPGO>
+    <ServerGarbageCollector>false</ServerGarbageCollector>
+    <WarningsAsErrors>FS0025</WarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Kernels.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

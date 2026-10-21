@@ -1,0 +1,24 @@
+# quant_models_2026
+# Autor: ProfBru - Bruno Penedo © 2026 - TODOS OS DIREITOS RESERVADOS
+#
+# Núcleo (obrigatório)
+numpy>=2.0
+
+# Aceleração (R7/R6) — ausência degrada com aviso, não quebra
+numba>=0.60
+Cython>=3.0
+
+# Telas do README (D21)
+matplotlib>=3.7
+
+# Acervo local sem SGBD (D24/R14) — só se o projeto tiver acervo
+# PyMuPDF>=1.24
+# pyarrow>=15.0
+# datafusion>=40.0
+# onnxruntime>=1.17
+# python-docx>=1.1
+# python-pptx>=0.6
+# openpyxl>=3.1
+
+# PostgreSQL (D26/R15) — só se houver carga transacional
+# psycopg[binary]>=3.1

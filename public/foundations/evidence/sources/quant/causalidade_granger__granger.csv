@@ -1,0 +1,73 @@
+causa,efeito,rotulo_causa,rotulo_efeito,estatistica_f,p_valor,significativo_1pct,significativo_bonferroni
+EURUSD,DXY,Euro/Dólar,Índice do dólar,16.1569,8.43194e-16,True,True
+EURUSD,XAUUSD,Euro/Dólar,Ouro,6.58485,4.12616e-06,True,True
+US500,DXY,S&P 500,Índice do dólar,6.4632,5.43509e-06,True,True
+US500,WTI,S&P 500,Petróleo WTI,6.45942,5.4818e-06,True,True
+US500,USDJPY,S&P 500,Dólar/Iene,5.78016,2.53183e-05,True,True
+US500,COPPER,S&P 500,Cobre,5.4669,5.09992e-05,True,True
+WTI,US500,Petróleo WTI,S&P 500,5.41731,5.69574e-05,True,True
+EURUSD,COPPER,Euro/Dólar,Cobre,4.70451,0.00027551,True,False
+DXY,XAUUSD,Índice do dólar,Ouro,4.47709,0.000453108,True,False
+US500,USTBOND,S&P 500,Treasury americano,4.44686,0.000483969,True,False
+USDJPY,XAUUSD,Dólar/Iene,Ouro,4.21344,0.00080354,True,False
+DXY,US500,Índice do dólar,S&P 500,4.12374,0.00097546,True,False
+EURUSD,US500,Euro/Dólar,S&P 500,3.87313,0.00167162,True,False
+DXY,COPPER,Índice do dólar,Cobre,3.28736,0.00576944,True,False
+US500,XAUUSD,S&P 500,Ouro,3.0138,0.0101687,False,False
+COPPER,WTI,Cobre,Petróleo WTI,2.76761,0.0168018,False,False
+EURUSD,USTBOND,Euro/Dólar,Treasury americano,2.73255,0.0180351,False,False
+USTBOND,XAUUSD,Treasury americano,Ouro,2.34016,0.0393254,False,False
+USDJPY,USTBOND,Dólar/Iene,Treasury americano,2.22767,0.0489239,False,False
+US500,EURUSD,S&P 500,Euro/Dólar,1.97429,0.0792186,False,False
+USTBOND,US500,Treasury americano,S&P 500,1.85499,0.0988581,False,False
+DXY,USTBOND,Índice do dólar,Treasury americano,1.75765,0.118093,False,False
+XAUUSD,USTBOND,Ouro,Treasury americano,1.69411,0.13242,False,False
+WTI,USDJPY,Petróleo WTI,Dólar/Iene,1.58645,0.160292,False,False
+USTBOND,COPPER,Treasury americano,Cobre,1.57032,0.164889,False,False
+COPPER,US500,Cobre,S&P 500,1.4829,0.19187,False,False
+EURUSD,SOYBEAN,Euro/Dólar,Soja,1.42385,0.212191,False,False
+XAUUSD,USDJPY,Ouro,Dólar/Iene,1.3655,0.234049,False,False
+WTI,USTBOND,Petróleo WTI,Treasury americano,1.36281,0.235101,False,False
+USDJPY,US500,Dólar/Iene,S&P 500,1.33047,0.248061,False,False
+USDJPY,WTI,Dólar/Iene,Petróleo WTI,1.19288,0.309919,False,False
+DXY,SOYBEAN,Índice do dólar,Soja,1.16183,0.325449,False,False
+USDJPY,EURUSD,Dólar/Iene,Euro/Dólar,1.14699,0.333078,False,False
+SOYBEAN,USDJPY,Soja,Dólar/Iene,1.12472,0.344784,False,False
+XAUUSD,EURUSD,Ouro,Euro/Dólar,1.11701,0.348909,False,False
+XAUUSD,DXY,Ouro,Índice do dólar,1.0969,0.359842,False,False
+COPPER,EURUSD,Cobre,Euro/Dólar,1.06644,0.376876,False,False
+USDJPY,COPPER,Dólar/Iene,Cobre,1.04187,0.391041,False,False
+XAUUSD,US500,Ouro,S&P 500,0.980258,0.428194,False,False
+COPPER,XAUUSD,Cobre,Ouro,0.95485,0.444186,False,False
+COPPER,SOYBEAN,Cobre,Soja,0.939631,0.453948,False,False
+USTBOND,EURUSD,Treasury americano,Euro/Dólar,0.928593,0.461114,False,False
+WTI,DXY,Petróleo WTI,Índice do dólar,0.89753,0.481652,False,False
+XAUUSD,WTI,Ouro,Petróleo WTI,0.891276,0.485853,False,False
+COPPER,USDJPY,Cobre,Dólar/Iene,0.875248,0.496716,False,False
+USDJPY,SOYBEAN,Dólar/Iene,Soja,0.870259,0.500126,False,False
+USDJPY,DXY,Dólar/Iene,Índice do dólar,0.810065,0.542271,False,False
+DXY,EURUSD,Índice do dólar,Euro/Dólar,0.806392,0.5449,False,False
+XAUUSD,SOYBEAN,Ouro,Soja,0.761704,0.577359,False,False
+SOYBEAN,EURUSD,Soja,Euro/Dólar,0.741789,0.592084,False,False
+WTI,COPPER,Petróleo WTI,Cobre,0.668358,0.647472,False,False
+EURUSD,WTI,Euro/Dólar,Petróleo WTI,0.651322,0.660507,False,False
+SOYBEAN,WTI,Soja,Petróleo WTI,0.641485,0.668055,False,False
+SOYBEAN,DXY,Soja,Índice do dólar,0.627917,0.678485,False,False
+SOYBEAN,COPPER,Soja,Cobre,0.626789,0.679352,False,False
+DXY,USDJPY,Índice do dólar,Dólar/Iene,0.611107,0.691428,False,False
+DXY,WTI,Índice do dólar,Petróleo WTI,0.608472,0.693458,False,False
+XAUUSD,COPPER,Ouro,Cobre,0.551657,0.737177,False,False
+COPPER,DXY,Cobre,Índice do dólar,0.536412,0.748844,False,False
+US500,SOYBEAN,S&P 500,Soja,0.535488,0.74955,False,False
+COPPER,USTBOND,Cobre,Treasury americano,0.533032,0.751424,False,False
+WTI,EURUSD,Petróleo WTI,Euro/Dólar,0.479539,0.79179,False,False
+USTBOND,SOYBEAN,Treasury americano,Soja,0.466871,0.801178,False,False
+SOYBEAN,US500,Soja,S&P 500,0.451524,0.81244,False,False
+USTBOND,USDJPY,Treasury americano,Dólar/Iene,0.428284,0.829217,False,False
+EURUSD,USDJPY,Euro/Dólar,Dólar/Iene,0.405097,0.845573,False,False
+WTI,XAUUSD,Petróleo WTI,Ouro,0.377315,0.86457,False,False
+WTI,SOYBEAN,Petróleo WTI,Soja,0.37689,0.864855,False,False
+SOYBEAN,XAUUSD,Soja,Ouro,0.351801,0.881348,False,False
+USTBOND,WTI,Treasury americano,Petróleo WTI,0.286177,0.920873,False,False
+SOYBEAN,USTBOND,Soja,Treasury americano,0.238485,0.945575,False,False
+USTBOND,DXY,Treasury americano,Índice do dólar,0.228764,0.950127,False,False

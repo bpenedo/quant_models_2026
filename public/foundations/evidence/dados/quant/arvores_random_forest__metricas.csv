@@ -1,0 +1,2 @@
+modelo,acuracia,acuracia_balanceada,auc,fracao_prevista_alta,taxa_base_alta,sharpe_long_short,sharpe_comprado,n_teste
+Random Forest (400 árvores),0.535198,0.499297,0.511094,0.920746,0.542657,0.75455,0.648473,2145

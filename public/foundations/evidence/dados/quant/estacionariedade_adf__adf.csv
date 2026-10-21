@@ -1,0 +1,17 @@
+simbolo,nome,forma,estatistica_adf,critico_1pct,critico_5pct,defasagens,estacionaria_5pct
+US500,S&P 500,log-preço,0.15276,-3.43194,-2.86224,30,False
+US500,S&P 500,log-retorno,-13.0689,-3.43194,-2.86224,30,True
+XAUUSD,Ouro,log-preço,0.436859,-3.43194,-2.86224,30,False
+XAUUSD,Ouro,log-retorno,-11.0956,-3.43194,-2.86224,30,True
+EURUSD,Euro/Dólar,log-preço,-2.16992,-3.43188,-2.86222,30,False
+EURUSD,Euro/Dólar,log-retorno,-11.2144,-3.43188,-2.86222,30,True
+WTI,Petróleo WTI,log-preço,-2.97587,-3.43194,-2.86224,30,True
+WTI,Petróleo WTI,log-retorno,-10.8509,-3.43194,-2.86224,30,True
+USTBOND,Treasury americano,log-preço,-1.65864,-3.43194,-2.86224,30,False
+USTBOND,Treasury americano,log-retorno,-11.8594,-3.43194,-2.86224,30,True
+SOYBEAN,Soja,log-preço,-1.43775,-3.43194,-2.86224,30,False
+SOYBEAN,Soja,log-retorno,-10.5864,-3.43194,-2.86224,30,True
+DXY,Índice do dólar,log-preço,-1.82017,-3.43194,-2.86224,30,False
+DXY,Índice do dólar,log-retorno,-11.0685,-3.43194,-2.86224,30,True
+COPPER,Cobre,log-preço,-1.54866,-3.43194,-2.86224,30,False
+COPPER,Cobre,log-retorno,-12.1349,-3.43194,-2.86224,30,True

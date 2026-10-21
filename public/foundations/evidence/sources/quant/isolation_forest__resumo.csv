@@ -1,0 +1,5 @@
+simbolo,nome,anomalias,pct_quedas,maior_queda_pct,maior_alta_pct,anomalias_2020
+US500,S&P 500,77,0.571429,-10.9552,9.34456,21
+XAUUSD,Ouro,63,0.555556,-12.0657,5.90544,11
+WTI,Petróleo WTI,77,0.506494,-28.2206,25.1054,25
+EURUSD,Euro/Dólar,85,0.517647,-2.68367,2.85507,3

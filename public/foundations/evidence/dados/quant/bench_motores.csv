@@ -1,0 +1,5 @@
+carga,numba_s,rust_s,fsharp_s,python_puro_s,ganho_numba,maquina
+"Monte Carlo O-U (malha 20×20, 2.000 trajetórias)",2.8587,2.8399,3.4904,,,linux-4c
+"Hurst móvel R/S (janela 250, 3.917 pregões)",0.026975,0.015799,0.10762,7.8632,291.5,linux-4c
+"HMM gaussiano EM (3 estados, 200 iterações)",0.23494,0.30837,1.2133,64.189,273.21,linux-4c
+Métricas de 2.000 carteiras × 10 ativos,1.3664,1.2969,1.9076,,,linux-4c
